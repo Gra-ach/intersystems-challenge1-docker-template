@@ -12,7 +12,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/Gra-ach/intersystems-challenge1-docker-template.git
-cd smart-grid-pyprod
+cd intersystems-challenge1-docker-template
 ```
 
 Start up the Docker container:
